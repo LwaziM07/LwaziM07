@@ -1,8 +1,6 @@
 ## All About Me!!!
 
-Lwazi Magaba here, a proud tech nerd, student tutor, research assistant as well as a Computer Science student at Emeris. After completing my first qualification in mobile application and web development, I'm currently pursuing a bachelor's degree in Computer and Information Sciences with a focus on Application Development. I like solving problems, learning new things, and helping others by making technology a little less intimidating for them.
-
-From programming robot cars, building functional mobile apps, and designing clean and responsive websites, I'm all about realizing ideas into plausible, real-world solutions. I've also been trusted to tutor students growing in the field as well, not just because of my academic aptitude, but because I know how to break down, simplify, and translate complex concepts for others to comprehend more easily.
+Lwazi Magaba here, a proud tech nerd, student tutor, research assistant as well as a Computer Science student at Emeris.
 
 I'm on the lookout for opportunities where I can continue growing, push my limits, and contribute to projects that have real-world impact. Be it an internship, collaboration, or any other opportunity available. If you're building something cool, I'd love to be a part of it.
 
